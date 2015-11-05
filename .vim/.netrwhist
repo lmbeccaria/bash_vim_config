@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/installs/MyTechnology/MyClasses/udacity/intro_to_data_science/mycode/lesson_01'
+let g:netrw_dirhist_2='/home/monkeyboy'
